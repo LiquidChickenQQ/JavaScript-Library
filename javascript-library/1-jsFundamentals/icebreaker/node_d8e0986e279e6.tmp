@@ -1,0 +1,8 @@
+let colorsArray = ['red', 'blue', 'green', 'yellow', 'violet'];
+let place = ['st', 'nd', 'rd', 'th', 'th'];
+
+
+for (i = 0; i = colorsArray.length; i++) {
+
+    console.log(place[0, 1, 2, 3, 4] + [i]);
+}

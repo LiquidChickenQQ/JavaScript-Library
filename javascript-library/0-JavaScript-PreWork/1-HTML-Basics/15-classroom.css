@@ -1,0 +1,43 @@
+/* h1 {
+    text-align: center;
+    color: lightgreen;
+}
+
+h3 {
+    color: blue;
+}
+
+p {
+    color: red;
+}
+
+.border {
+    border-style: solid;
+} */
+
+.movie-table {
+    border-style: solid;
+    border-style: black;
+    text-align: center;
+    padding: 5px;
+    background-color: lightgrey;
+}
+
+.title {
+    font-style: italic;
+}
+
+.movie-table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+td,
+th {
+    border: 2px;
+    padding: 5px;
+}
